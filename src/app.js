@@ -3,8 +3,8 @@ import "./style.css";
 import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
-let who = ["El perro", "Mi novia", "El profesor", "Mi vecina"];
-let action = ["comió", "orinó", "estrelló", "perdió"];
+let who = ["Mi perro", "Mi novia", "El profesor", "Mi vecina"];
+let action = ["Se comió", "orinó", "estrelló", "perdió"];
 let what = ["mi tarea", "mi teléfono", "mi dinero", "mi coche"];
 let when = ["justo antes de la clase", "mientras dormía", "mientras me ejercitaba", "durante el almuerzo"];
 
